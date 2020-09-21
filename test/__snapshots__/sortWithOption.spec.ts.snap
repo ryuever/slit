@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Four columns Four columns 1`] = `
+Array [
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "aa",
+      "1",
+      "LL",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "aa",
+      "3",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "aaaad",
+      "5",
+      "LL",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "bb",
+      "1",
+      "L",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "cc",
+      "1",
+      "M",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "cc",
+      "1",
+      "L",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "cc",
+      "3",
+      "M",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "cc",
+      "5",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "cc",
+      "5",
+      "XS",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "cc",
+      "5",
+      "LL",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "dd",
+      "1",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "dd",
+      "1",
+      "XS",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "dd",
+      "2",
+      "XS",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "姜黄色",
+      "ee",
+      "4",
+    ],
+  },
+]
+`;
+
+exports[`Two columns basic works 1`] = `
+Array [
+  Object {
+    "slugs": Array [
+      "丝绒款09 #草莓粉",
+      undefined,
+      "4.8g",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "丝绒款10 #珊瑚红",
+      "3.0g",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "丝绒款10 #珊瑚红",
+      "3.0g",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "丝绒款10 #珊瑚红",
+      "4.8g",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "丝绒款10 #珊瑚红",
+      "5.2g",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "丝绒款10 #珊瑚红",
+      "7.0g",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "果汁款03 #西瓜红",
+      "3.0g",
+    ],
+  },
+  Object {
+    "slugs": Array [
+      "果汁款09 #荔枝色",
+      "4.8g",
+    ],
+  },
+]
+`;
